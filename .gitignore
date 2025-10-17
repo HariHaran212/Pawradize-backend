@@ -1,0 +1,33 @@
+# ===================================================================
+# A recommended .gitignore for Spring Boot + Maven + IntelliJ projects
+# ===================================================================
+
+# Build output
+/target/
+
+# Log files
+*.log
+*.log.*
+
+# IDE files (IntelliJ)
+.idea/
+*.iml
+*.iws
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Local configuration files with secrets
+# IMPORTANT: As we discussed, this keeps your local secrets out of Git
+application-dev.properties
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Other
+*.zip
+*.rar
+
+*.env
+.env
