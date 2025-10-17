@@ -72,6 +72,14 @@ This repository contains the backend REST API for "Pawradise," a full-featured p
     ```
     The API server will start on `http://localhost:2025`.
 
+---
+
+## 🚀 Frontend
+
+The frontend for this application is deployed separately and is available for you to view and interact with.
+
+Check it out here: [pawradize.vercel.app](https://pawradize.vercel.app)
+
 [//]: # (---)
 
 [//]: # (## ## License)
